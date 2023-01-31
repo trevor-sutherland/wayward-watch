@@ -71,6 +71,9 @@
               "browserTarget": "my-app:build:development"
             }
           },
+          "options": {
+            "open": true
+          },
           "defaultConfiguration": "development"
         },
         "extract-i18n": {
